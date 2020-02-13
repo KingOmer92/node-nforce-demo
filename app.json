@@ -8,16 +8,16 @@
   "keywords": ["node", "salesforce", "nforce", "lightning", "lds", "slds", "lightningdesignsystem"],
   "env": {
     "USERNAME": {
-      "description": "Your Saleforce.com username"
+      "description": "umer.farooq-25cc@force.com"
     },
     "PASSWORD": {
-      "description": "Your Saleforce.com password and security token."
+      "description": "Admin@123"
     },
     "CLIENT_ID": {
-      "description": "Your Connected App's Consumer Key."
+      "description": "3MVG9n_HvETGhr3Bq6pi1dYA.gXaPDJlYQafMbp2JkLLL_UsV_VAoqQcU_fIq3RruGji2o9im_iAcc86vMdxI"
     },
     "CLIENT_SECRET": {
-      "description": "Your Connected App's Consumer Secret."
+      "description": "F0C5811B023A4472B35893D3327D74297DCD689A4111B7B7AA5B25342BD8EACF"
     }
   }
 }
